@@ -1,6 +1,6 @@
 # AINS Student Toolkit
 
-A practical, beginner-friendly guide to the tools used across Aurnova Institute of Networked Systems (AINS) courses. Use it when a course asks you to work with Python, notebooks, Google Colab, GitHub, or GitHub Codespaces.
+A practical, beginner-friendly guide to the tools used across AINS courses. Use it when a course asks you to work with Python, notebooks, Google Colab, GitHub, or GitHub Codespaces.
 
 **You do not need to learn every tool before starting your course.** Most readings work in a browser. Most guided labs can be opened in Colab. Use GitHub or Codespaces when the course activity specifically needs them.
 
