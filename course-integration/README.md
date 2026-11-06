@@ -41,19 +41,22 @@ GitHub assignment:
 
 ## Rollout sequence
 
-- **Pass 1 — Core courses:** add the course-entry link to AINS6001–AINS6009. Prioritize the opening modules of AINS6001 and the Python-intensive AINS6007.
+- **Pass 1 — Foundational and core courses:** add the course-entry link to AINS5001 and AINS6001–AINS6009. Prioritize the opening modules of AINS6001 and the Python-intensive AINS6007.
 - **Pass 2 — Specializations:** add the same entry link to AINS6100–AINS6102, AINS6200–AINS6202, and AINS6300–AINS6302.
 - **Pass 3 — Context links:** add first-use links at actual tool instructions and technical terms; avoid mass-linking every repeated word.
 - **Pass 4 — Keep current:** review tool screenshots and interface names each term; accept corrections through course support or repository issues.
 
 ### Repository coverage
 
-The rollout covers these 18 course repositories:
+The rollout covers these 19 AINS course repositories:
 
+- Foundational/bridge: [`AINS5001`](https://github.com/Aurnova/AINS5001) (AIMA5001/AINS5001 course materials).
 - Core: [`ains-6001-foundations-of-artificial-intelligence`](https://github.com/CastaliaInstitute/ains-6001-foundations-of-artificial-intelligence), [`ains-6002-machine-learning-and-predictive-modeling`](https://github.com/CastaliaInstitute/ains-6002-machine-learning-and-predictive-modeling), [`ains-6003-deep-learning-and-neural-networks`](https://github.com/CastaliaInstitute/ains-6003-deep-learning-and-neural-networks), [`ains-6004-natural-language-processing`](https://github.com/CastaliaInstitute/ains-6004-natural-language-processing), [`ains-6005-ai-ethics-law-and-policy`](https://github.com/CastaliaInstitute/ains-6005-ai-ethics-law-and-policy), [`ains-6006-big-data-management-for-ai-applications`](https://github.com/CastaliaInstitute/ains-6006-big-data-management-for-ai-applications), [`ains-6007-applied-ai-programming-with-python`](https://github.com/CastaliaInstitute/ains-6007-applied-ai-programming-with-python), [`ains-6008-ai-project-management-and-deployment`](https://github.com/CastaliaInstitute/ains-6008-ai-project-management-and-deployment), [`ains-6009-capstone-project`](https://github.com/CastaliaInstitute/ains-6009-capstone-project).
 - Healthcare: [`ains-6100-ai-in-medical-imaging`](https://github.com/CastaliaInstitute/ains-6100-ai-in-medical-imaging), [`ains-6101-predictive-analytics-in-population-health`](https://github.com/CastaliaInstitute/ains-6101-predictive-analytics-in-population-health), [`ains-6102-ai-for-clinical-decision-support`](https://github.com/CastaliaInstitute/ains-6102-ai-for-clinical-decision-support).
 - Business: [`ains-6200-ai-for-marketing-and-customer-insights`](https://github.com/CastaliaInstitute/ains-6200-ai-for-marketing-and-customer-insights), [`ains-6201-automation-and-process-optimization`](https://github.com/CastaliaInstitute/ains-6201-automation-and-process-optimization), [`ains-6202-ai-strategy-for-executives`](https://github.com/CastaliaInstitute/ains-6202-ai-strategy-for-executives).
 - Cybersecurity: [`ains-6300-ai-in-threat-detection`](https://github.com/CastaliaInstitute/ains-6300-ai-in-threat-detection), [`ains-6301-automated-response-systems`](https://github.com/CastaliaInstitute/ains-6301-automated-response-systems), [`ains-6302-ai-for-risk-assessment`](https://github.com/CastaliaInstitute/ains-6302-ai-for-risk-assessment).
+
+Some courses also have public cohort clones or classroom starter templates in the Aurnova organization. When students enter through those delivery repositories, include the toolkit link there too or make sure it is inherited from the course template. Do not count each clone or module template as a separate course.
 
 ## Repository checklist
 
