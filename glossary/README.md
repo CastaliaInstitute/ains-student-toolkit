@@ -36,6 +36,7 @@ Plain-language definitions for tool and AI terms used across AINS courses. Cours
 
 - <a id="branch"></a>**Branch** — A separate line of work in a repository, used to prepare changes without changing the main version directly.
 - <a id="codespaces"></a>**GitHub Codespaces** — A browser-based development environment connected to a GitHub repository.
+- <a id="copilot-chat"></a>**GitHub Copilot Chat** — A conversational assistant in supported GitHub and code-editor experiences. In a Codespace it can answer questions about the open workspace when the signed-in account has Copilot access; it may be unavailable under some account or organization policies.
 - <a id="commit"></a>**Commit** — A saved checkpoint of changes in a Git repository, usually accompanied by a short description.
 - <a id="github"></a>**GitHub** — A web service for hosting Git repositories and collaborating on projects.
 - <a id="git"></a>**Git** — A version-control tool that records changes to files over time.

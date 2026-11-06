@@ -11,6 +11,7 @@ Welcome. This is the shared starting point for the digital tools used across AIN
 | Understand or edit a few lines | [Python basics](tutorials/python-basics.md) |
 | Save or submit work with GitHub | [GitHub basics](tutorials/github.md) |
 | Open a full browser development environment | [GitHub Codespaces](tutorials/codespaces.md) |
+| Ask a question about Python or these tool guides while working | [Copilot Chat in Codespaces](tutorials/codespaces.md#ask-the-toolkit-with-copilot-chat) |
 | Recover from an error | [Troubleshooting](tutorials/troubleshooting.md) |
 | Look up a course or tool term | [Glossary](glossary/README.md) |
 

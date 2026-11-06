@@ -9,8 +9,9 @@ This toolkit is the shared reference for common student workflows across AINS co
 3. At each lab launch, link “Open in Colab” to the specific notebook and link “Colab” to the central Colab guide. State whether Google sign-in is needed and how to save a copy.
 4. At GitHub invitation, repository, branch, commit, or pull request instructions, link the corresponding glossary entry and the GitHub tutorial. State whether sign-in and course access are required.
 5. At Codespaces instructions, link the Codespaces guide and explain the course-specific reason to use it.
-6. At errors or setup instructions, link to Troubleshooting. Include the exact help information students should report.
-7. Do not create course-file links that point to another repository’s relative file. Link to the published toolkit page or stable GitHub `blob/main` URL.
+6. Where a course provides a Codespace, include the Copilot and Copilot Chat extensions in its devcontainer configuration and add repository instructions that help Copilot answer using that course's student-facing materials. Link students to the toolkit's [Copilot Chat guide](https://github.com/CastaliaInstitute/ains-student-toolkit/blob/main/tutorials/codespaces.md#ask-the-toolkit-with-copilot-chat). Installing extensions does not provide a Copilot entitlement or override organization policy.
+7. At errors or setup instructions, link to Troubleshooting. Include the exact help information students should report.
+8. Do not create course-file links that point to another repository’s relative file. Link to the published toolkit page or stable GitHub `blob/main` URL.
 
 ## Recommended snippets
 
@@ -36,6 +37,7 @@ GitHub assignment:
 | Git, GitHub, repository | `tutorials/github.md` and matching glossary anchors |
 | Branch, commit, pull request | `tutorials/github.md` and matching glossary anchors |
 | Codespaces | `tutorials/codespaces.md` and `glossary/README.md#codespaces` |
+| Copilot, Copilot Chat | `tutorials/codespaces.md#ask-the-toolkit-with-copilot-chat` and `glossary/README.md#copilot-chat` |
 | Model, dataset, feature, baseline, synthetic data | matching anchors in `glossary/README.md` |
 | LLM, generative AI, prompt, machine learning | matching anchors in `glossary/README.md` |
 
@@ -60,4 +62,4 @@ Some courses also have public cohort clones or classroom starter templates in th
 
 ## Repository checklist
 
-For each course repository, update only the public student-facing home/introduction and relevant student module pages. Keep instructor-only notes, solutions, grading decisions, and course-specific submission policies in their existing locations. Where a repository already has a setup guide, link to the shared toolkit for common fundamentals and retain only course-specific details locally.
+For each course repository, update only the public student-facing home/introduction and relevant student module pages. Keep instructor-only notes, solutions, grading decisions, and course-specific submission policies in their existing locations. Where a repository already has a setup guide, link to the shared toolkit for common fundamentals and retain only course-specific details locally. Add the Copilot extension and course-aware Copilot instructions only to repositories that offer a student Codespace; explain that access depends on the student's account and organization policy.

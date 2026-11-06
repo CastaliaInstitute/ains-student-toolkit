@@ -11,6 +11,7 @@ A practical, beginner-friendly guide to the tools used across AINS courses. Use 
 - **I need to understand the code:** use [Python basics](tutorials/python-basics.md) alongside the lab. You can begin by running and changing one clearly marked value.
 - **My assignment asks for GitHub:** follow [GitHub basics](tutorials/github.md), then the course-specific submission instructions. Do not assume every assignment needs a GitHub account.
 - **I need a complete project workspace:** follow [Codespaces basics](tutorials/codespaces.md) only when the course asks you to use it.
+- **I want to ask a question while I work:** open the toolkit in [GitHub Codespaces](tutorials/codespaces.md); Copilot Chat is included in new toolkit Codespaces.
 - **Something failed:** see [Troubleshooting](tutorials/troubleshooting.md).
 
 ## Learning materials
