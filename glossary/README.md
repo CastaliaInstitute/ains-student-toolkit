@@ -31,6 +31,7 @@ Plain-language definitions for tool and AI terms used across AINS courses. Cours
 ## Google Colab
 
 - <a id="colab"></a>**Google Colab** — A browser-based service for opening and running Jupyter notebooks. It uses Google sign-in and can save notebook copies to Google Drive.
+- <a id="gemini"></a>**Gemini** — Google's generative AI assistant. In Colab, availability and features depend on the signed-in account, age, region, and Google settings. Verify setup advice against your course instructions.
 
 ## GitHub and project work
 

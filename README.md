@@ -8,6 +8,7 @@ A practical, beginner-friendly guide to the tools used across AINS courses. Use 
 
 - **I just want to read course materials:** use the links in your course site. A GitHub account is not needed to read a public course page.
 - **I need to run a lab:** start with [Colab basics](tutorials/colab.md). The course notebook opens in your browser; save your own copy to Google Drive before editing.
+- **I have a course setup question while using Colab:** see [Gemini help in Colab](tutorials/gemini-colab.md) for safe ways to ask for guidance.
 - **I need to understand the code:** use [Python basics](tutorials/python-basics.md) alongside the lab. You can begin by running and changing one clearly marked value.
 - **My assignment asks for GitHub:** follow [GitHub basics](tutorials/github.md), then the course-specific submission instructions. Do not assume every assignment needs a GitHub account.
 - **I need a complete project workspace:** follow [Codespaces basics](tutorials/codespaces.md) only when the course asks you to use it.

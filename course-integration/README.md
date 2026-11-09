@@ -7,6 +7,7 @@ This toolkit is the shared reference for common student workflows across AINS co
 1. Add a short **Student tool help** link near the start of each course home page or syllabus, pointing to the toolkit’s student entry page.
 2. At first important use of a tool term in a module, link the term to the relevant tutorial or glossary anchor. Avoid linking every repeated instance; use the first-use rule so links remain helpful rather than distracting.
 3. At each lab launch, link “Open in Colab” to the specific notebook and link “Colab” to the central Colab guide. State whether Google sign-in is needed and how to save a copy.
+   When appropriate, also link [Gemini help in Colab](https://github.com/CastaliaInstitute/ains-student-toolkit/blob/main/tutorials/gemini-colab.md); do not make AI assistance a course requirement unless the instructor says so.
 4. At GitHub invitation, repository, branch, commit, or pull request instructions, link the corresponding glossary entry and the GitHub tutorial. State whether sign-in and course access are required.
 5. At Codespaces instructions, link the Codespaces guide and explain the course-specific reason to use it.
 6. Where a course provides a Codespace, include the Copilot and Copilot Chat extensions in its devcontainer configuration and add repository instructions that help Copilot answer using that course's student-facing materials. Link students to the toolkit's [Copilot Chat guide](https://github.com/CastaliaInstitute/ains-student-toolkit/blob/main/tutorials/codespaces.md#ask-the-toolkit-with-copilot-chat). Installing extensions does not provide a Copilot entitlement or override organization policy.
@@ -34,6 +35,7 @@ GitHub assignment:
 | Python, variable, function, library | `glossary/README.md#python`, `#variable`, `#function`, `#library` |
 | Notebook, cell, runtime | `glossary/README.md#jupyter-notebook`, `#cell`, `#runtime` |
 | Colab | `tutorials/colab.md` and `glossary/README.md#colab` |
+| Gemini in Colab | `tutorials/gemini-colab.md` and `glossary/README.md#gemini` |
 | Git, GitHub, repository | `tutorials/github.md` and matching glossary anchors |
 | Branch, commit, pull request | `tutorials/github.md` and matching glossary anchors |
 | Codespaces | `tutorials/codespaces.md` and `glossary/README.md#codespaces` |
