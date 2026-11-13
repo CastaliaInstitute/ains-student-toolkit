@@ -2,6 +2,8 @@
 
 Plain-language definitions for tool and AI terms used across AINS courses. Course materials should link the first important use of a term to its definition here. Use stable anchors in the form `../glossary/README.md#term`.
 
+For definitions linked to foundational explanations and graduate lessons, see the [AINS5000 cross-course glossary](https://aurnova.github.io/ains5000-course/book/glossary.html).
+
 ## AI and course concepts
 
 - <a id="ai-system"></a>**AI system** — A system that uses a method associated with artificial intelligence to produce predictions, recommendations, content, or actions. It includes people, data, software, and the setting where it is used—not just a model.

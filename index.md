@@ -4,6 +4,8 @@ Welcome. This is the shared starting point for the digital tools used across AIN
 
 ## Start with the task you have
 
+Prefer a guided sequence? [AINS5000: Programming Concepts and Tools for AI](https://aurnova.github.io/ains5000-course/book/intro.html) introduces GitHub, Colab, Codespaces, and basic Python through eight short modules. Use its [quick reference](https://aurnova.github.io/ains5000-course/book/reference.html) and [cross-course glossary](https://aurnova.github.io/ains5000-course/book/glossary.html) alongside graduate coursework.
+
 | If you need to… | Start here |
 |---|---|
 | Read a course page | Course site; a GitHub login is not needed for public pages |

@@ -6,6 +6,8 @@ A practical, beginner-friendly guide to the tools used across AINS courses. Use 
 
 ## Choose your path
 
+For a guided introduction, take [AINS5000: Programming Concepts and Tools for AI](https://aurnova.github.io/ains5000-course/book/intro.html). Its [quick reference](https://aurnova.github.io/ains5000-course/book/reference.html) links directly to the lesson a graduate activity needs, and its [cross-course glossary](https://aurnova.github.io/ains5000-course/book/glossary.html) connects definitions to related AINS lessons.
+
 - **I just want to read course materials:** use the links in your course site. A GitHub account is not needed to read a public course page.
 - **I need to run a lab:** start with [Colab basics](tutorials/colab.md). The course notebook opens in your browser; save your own copy to Google Drive before editing.
 - **I have a course setup question while using Colab:** see [Gemini help in Colab](tutorials/gemini-colab.md) for safe ways to ask for guidance.
